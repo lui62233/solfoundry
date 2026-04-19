@@ -1,0 +1,52 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+  <!-- SolFoundry Sticker Pack - 10 Unique Designs -->
+  <!-- Sticker 1: Anvil Logo -->
+  <rect x="10" y="10" width="150" height="150" rx="10" fill="#0f172a" stroke="#10b981" stroke-width="3"/>
+  <text x="85" y="80" text-anchor="middle" fill="#10b981" font-size="60" font-family="Arial">⚒️</text>
+  <text x="85" y="120" text-anchor="middle" fill="#ffffff" font-size="16" font-family="Arial">SolFoundry</text>
+  
+  <!-- Sticker 2: Forge Fire -->
+  <rect x="170" y="10" width="150" height="150" rx="10" fill="#0f172a" stroke="#ec4899" stroke-width="3"/>
+  <text x="245" y="80" text-anchor="middle" fill="#ec4899" font-size="60" font-family="Arial">🔥</text>
+  <text x="245" y="120" text-anchor="middle" fill="#ffffff" font-size="16" font-family="Arial">Forge</text>
+  
+  <!-- Sticker 3: Bounty Hunter -->
+  <rect x="330" y="10" width="150" height="150" rx="10" fill="#0f172a" stroke="#10b981" stroke-width="3"/>
+  <text x="405" y="80" text-anchor="middle" fill="#10b981" font-size="60" font-family="Arial">🎯</text>
+  <text x="405" y="120" text-anchor="middle" fill="#ffffff" font-size="16" font-family="Arial">Bounty</text>
+  
+  <!-- Sticker 4: Code Builder -->
+  <rect x="10" y="170" width="150" height="150" rx="10" fill="#0f172a" stroke="#ec4899" stroke-width="3"/>
+  <text x="85" y="240" text-anchor="middle" fill="#ec4899" font-size="60" font-family="Arial">💻</text>
+  <text x="85" y="280" text-anchor="middle" fill="#ffffff" font-size="16" font-family="Arial">Build</text>
+  
+  <!-- Sticker 5: AI Review -->
+  <rect x="170" y="170" width="150" height="150" rx="10" fill="#0f172a" stroke="#10b981" stroke-width="3"/>
+  <text x="245" y="240" text-anchor="middle" fill="#10b981" font-size="60" font-family="Arial">🤖</text>
+  <text x="245" y="280" text-anchor="middle" fill="#ffffff" font-size="16" font-family="Arial">AI Review</text>
+  
+  <!-- Sticker 6: Paid -->
+  <rect x="330" y="170" width="150" height="150" rx="10" fill="#0f172a" stroke="#ec4899" stroke-width="3"/>
+  <text x="405" y="240" text-anchor="middle" fill="#ec4899" font-size="60" font-family="Arial">💰</text>
+  <text x="405" y="280" text-anchor="middle" fill="#ffffff" font-size="16" font-family="Arial">Paid!</text>
+  
+  <!-- Sticker 7: T1 Bounty -->
+  <rect x="10" y="330" width="150" height="150" rx="10" fill="#0f172a" stroke="#10b981" stroke-width="3"/>
+  <text x="85" y="400" text-anchor="middle" fill="#10b981" font-size="40" font-family="Arial" font-weight="bold">T1</text>
+  <text x="85" y="440" text-anchor="middle" fill="#ffffff" font-size="14" font-family="Arial">Open Bounty</text>
+  
+  <!-- Sticker 8: T2 Bounty -->
+  <rect x="170" y="330" width="150" height="150" rx="10" fill="#0f172a" stroke="#ec4899" stroke-width="3"/>
+  <text x="245" y="400" text-anchor="middle" fill="#ec4899" font-size="40" font-family="Arial" font-weight="bold">T2</text>
+  <text x="245" y="440" text-anchor="middle" fill="#ffffff" font-size="14" font-family="Arial">Tiered</text>
+  
+  <!-- Sticker 9: T3 Bounty -->
+  <rect x="330" y="330" width="150" height="150" rx="10" fill="#0f172a" stroke="#10b981" stroke-width="3"/>
+  <text x="405" y="400" text-anchor="middle" fill="#10b981" font-size="40" font-family="Arial" font-weight="bold">T3</text>
+  <text x="405" y="440" text-anchor="middle" fill="#ffffff" font-size="14" font-family="Arial">Claimed</text>
+  
+  <!-- Sticker 10: FNDRY Token -->
+  <rect x="10" y="490" width="470" height="150" rx="10" fill="#0f172a" stroke="#ec4899" stroke-width="3"/>
+  <text x="245" y="560" text-anchor="middle" fill="#ec4899" font-size="50" font-family="Arial" font-weight="bold">$FNDRY</text>
+  <text x="245" y="600" text-anchor="middle" fill="#ffffff" font-size="16" font-family="Arial">SolFoundry Token</text>
+</svg>
